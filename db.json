@@ -1,0 +1,94 @@
+{
+  "page_stats": [
+      {
+        "social": "instagram",
+        "page": "Verlynk",
+        "views_data": [
+          {
+            "month": "July",
+            "views": 90000
+          },
+          {
+            "month": "August",
+            "views": 200000
+          },
+          {
+            "month": "September",
+            "views": 50000
+          },
+          {
+            "month": "October",
+            "views": 40000
+          },
+          {
+            "month": "November",
+            "views": 100000
+          },
+          {
+            "month": "December",
+            "views": 220000
+          }
+        ]
+      },
+      {
+        "social": "linkedin",
+        "page": "Verlynk",
+        "views_data": [
+          {
+            "month": "July",
+            "views": 70000
+          },
+          {
+            "month": "August",
+            "views": 150000
+          },
+          {
+            "month": "September",
+            "views": 60000
+          },
+          {
+            "month": "October",
+            "views": 30000
+          },
+          {
+            "month": "November",
+            "views": 100000
+          },
+          {
+            "month": "December",
+            "views": 220000
+          }
+        ]
+      },
+      {
+        "social": "facebook",
+        "page": "Verlynk",
+        "views_data": [
+          {
+            "month": "July",
+            "views": 90000
+          },
+          {
+            "month": "August",
+            "views": 200000
+          },
+          {
+            "month": "September",
+            "views": 50000
+          },
+          {
+            "month": "October",
+            "views": 40000
+          },
+          {
+            "month": "November",
+            "views": 100000
+          },
+          {
+            "month": "December",
+            "views": 220000
+          }
+        ]
+      }
+    ]
+}
